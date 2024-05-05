@@ -1,6 +1,6 @@
 # PYL_App
 
-![PYL_App Logo](views/PYL_App-Logo.ico)
+![PYL_App Logo](PYL_App-Logo.ico)
 
 ## Description
 
@@ -8,4 +8,4 @@ PYL_App par www.PlayYour.Life
 
 ---
 
-© [PYL_Marcio](https://github.com/PYLMarcio)
+© [PYL_Marcio](https://www.playyour.life/pyl_marcio)
