@@ -3,7 +3,6 @@ PYL_App est une application moderne conçue pour les créateurs de contenu, offr
 
 🚀 Fonctionnalités Principales
 Intégrations Multi-Plateformes :
-
 Twitch : Gestion complète (chat, événements temps réel, statistiques, émotes)
 TikTok : Intégration via Tikfinity pour les lives
 Discord : Authentification, Rich Presence, notifications
@@ -28,6 +27,5 @@ Thèmes personnalisables pour les messages
 Gestion multi-écrans intelligente
 Mises à jour automatiques
 PYL_App transforme une session de streaming en une expérience professionnelle et interactive, permettant aux créateurs de se concentrer sur leur contenu tout en gardant le contrôle total de leur environnement de diffusion.
-
 ---
 PYL_App par www.PlayYour.Life ©2026 [PYL_Marcio](https://www.playyour.life/pyl_marcio)
